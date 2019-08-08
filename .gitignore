@@ -1,0 +1,11 @@
+.vscode
+.idea
+.DS_Store
+
+.npmignore
+.npmrc
+package-lock.json
+yarn.lock
+node_modules
+dist
+typings
